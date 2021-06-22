@@ -16,4 +16,4 @@ $('#year').text(new Date().getFullYear());
           window.location.hash = hash;
         });
       }
-    });
+    }); 
